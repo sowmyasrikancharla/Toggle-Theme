@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.nav-con {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.icon {
+  height: 80px;
+  width: 80px;
+}
+.but {
+  background-color: #ffffff;
+  border-style: none;
+}
+.home-about-con {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav-text {
+  color: #1e293b;
+  font-size: 22px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.link {
+  text-decoration: none;
+}
+.nav-con-dark {
+  height: 15vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #333333;
+  padding: 2px;
+  margin: 0px;
+}
+.nav-text-dark {
+  color: #ffffff;
+  font-size: 22px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.but-dark {
+  background-color: #333333;
+  border-style: none;
+}
+li {
+  list-style-type: none;
+}

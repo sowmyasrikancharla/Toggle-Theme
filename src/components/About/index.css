@@ -1,0 +1,29 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.logo {
+  height: 200px;
+  width: 200px;
+}
+.about-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.about-head {
+  font-size: 50px;
+  color: #1e293b;
+}
+.about-con-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000000;
+}
+.about-head-dark {
+  font-size: 50px;
+  color: #ffffff;
+}

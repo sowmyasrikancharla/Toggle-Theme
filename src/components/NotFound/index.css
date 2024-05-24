@@ -1,0 +1,37 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.logo {
+  height: 200px;
+  width: 200px;
+}
+.not-found-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.not-found-head {
+  font-size: 50px;
+  color: #1e293b;
+}
+.not-found-con-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000000;
+}
+.not-found-head-dark {
+  font-size: 50px;
+  color: #ffffff;
+}
+.not-found-text {
+  color: #334155;
+  font-size: 30px;
+}
+.not-found-text-dark {
+  color: #ffffff;
+  font-size: 30px;
+}

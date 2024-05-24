@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.logo {
+  height: 200px;
+  width: 200px;
+}
+.home-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.home-head {
+  font-size: 50px;
+  color: #1e293b;
+}
+.home-con-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000000;
+}
+.home-head-dark {
+  font-size: 50px;
+  color: #ffffff;
+}
